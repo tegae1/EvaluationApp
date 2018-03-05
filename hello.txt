@@ -1,1 +1,1 @@
-Testing github integration with RTC
+Testing Github integration with RTC
